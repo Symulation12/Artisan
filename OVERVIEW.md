@@ -10,7 +10,6 @@
 
 </div>
 
-I have been working on Artisan consistency since June 2022 and it's my magnum opus of a plugin.
 Before you get started with Artisan, we should go over a few things about how the plugin works. Artisan is simple to use once you understand a few key factors.
 
 <div align="center"> 
