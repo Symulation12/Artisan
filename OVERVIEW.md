@@ -24,24 +24,29 @@ By default, this will fire as fast as the game allows, which is faster than norm
 You are not bypassing any sort of game restrictions doing this, however you can set a delay should you choose to.
 Enabling this has nothing to do with the suggestion making process Artisan uses by default.
 
+<div align="center"> 
 
 ![Auto Mode](/Artisan/Images/AutoMode.png)
 
-
+</div>
 
 If you do not have the automatic mode enabled, you will have access to 2 more modes. "Semi-Manual Mode" and "Full Manual".
 "Semi-Manual Mode" will appear in a small pop-up window when you start crafting.
 
+<div align="center"> 
+  
 ![In-Craft Menu](/Artisan/Images/ThemeCraftingWindowExample.png)
+
+</div>
 
 By clicking the "Execute recommended action" button, you are instructing the plugin to perform the suggestion it has recommended.
 This considered semi-manual as you still have to click each action, but you don't have to worry about finding them on your hotbars.
 "Full-Manual"" mode is performed by pressing the buttons on your hotbar as normal.
 You are provided with an aid by default as Artisan will highlight the action on your hotbar if it is slotted. (This can be disabled in the settings)
 
-![Hotbar highlighting example](/Artisan/Images/OutlineExample.png)
-
 <div align="center"> 
+  
+![Hotbar highlighting example](/Artisan/Images/OutlineExample.png)
 
 ### Solvers/Macros
 
@@ -55,7 +60,11 @@ Artisan macros have the benefit of not being restricted in length, can fire off 
 
 Once you have created a macro, you will have to assign it to a recipe. This is easily accomplished by using the Recipe Window dropdown. By default, this is attached to the top right of the in-game crafting log window but can be unattached in the settings.
 
+<div align="center"> 
+
 ![Recipe Window Menu Example](/Artisan/Images/RecipeWindowExample.phg)
+
+</div>
 
 Select a macro you have created from the dropdown box. When you go to craft this item, the suggestions will be replaced by the contents of your macro.
 
