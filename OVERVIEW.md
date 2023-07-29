@@ -40,7 +40,7 @@ If you do not have the automatic mode enabled, you will have access to 2 more mo
 
 By clicking the "Execute recommended action" button, you are instructing the plugin to perform the suggestion it has recommended.
 This considered semi-manual as you still have to click each action, but you don't have to worry about finding them on your hotbars.
-"Full-Manual"" mode is performed by pressing the buttons on your hotbar as normal.
+"Full-Manual" mode is performed by pressing the buttons on your hotbar as normal.
 You are provided with an aid by default as Artisan will highlight the action on your hotbar if it is slotted. (This can be disabled in the settings)
 
 <div align="center"> 
@@ -61,7 +61,7 @@ Once you have created a macro, you will have to assign it to a recipe. This is e
 
 <div align="center"> 
 
-![Recipe Window Menu Example](/Artisan/Images/RecipeWindowExample.phg)
+![Recipe Window Menu Example](/Artisan/Images/RecipeWindowExample.png)
 
 </div>
 
@@ -92,6 +92,16 @@ It also supports importing and exporting to Teamcraft.
 
 <div align="center"> 
 
+### Configuration
+
+</div>
+
+
+
+Artisan is very configurable, providing control over replacements the solver makes with or without a macro. With a macro, however, you can configure each step, allowing for dynamic responses to conditions. In addition macros can be configured to prevent yourself from unintentially running a macro with incorrect stats, saving you time and materials.
+
+<div align="center"> 
+  
 ### Questions
 
 </div>
